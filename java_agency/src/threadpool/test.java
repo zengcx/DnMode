@@ -23,6 +23,7 @@ public class test {
 					System.out.println("match!!");
 				};//需要判断的字符串是否符合全由数字组成,符合返回true,否则返回false
 
+				
 	}
 }
 
