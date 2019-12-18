@@ -21,7 +21,7 @@ public class RSATester {
             e.printStackTrace();
         }
     	
-    	//yfx：RSA加解密效率低，并且好像是新线程执行的，导致下面的日志输出位置，不是按照代码顺序
+    	//RSA加解密效率低，并且好像是新线程执行的，导致下面的日志输出位置，不是按照代码顺序
         //test();
        testSign();
 //        testHttpSign();
